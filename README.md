@@ -4,6 +4,6 @@
 
 
 1. Install Python Dependencies:
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 2. Install Node.js (16.8.0 or higher)
